@@ -8,11 +8,10 @@
 
 ### Связаться со мной:
 
-[<img align="left" alt="antonsedin.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="anton sedin | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="anton sedin | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
-
-<br />
+[![Telegram](https://img.shields.io/badge/-Telegram-0e1117?style=for-the-badge&logo=telegram&logoColor=299fd9)](https://t.me/bukletika)
+[![Gmail](https://img.shields.io/badge/-email-0e1117?style=for-the-badge&logo=gmail)](mailto:animeridian@gmail.com)
+[![vk](https://img.shields.io/badge/-ВКонтакте-0e1117?style=for-the-badge&logo=vk)](https://vk.com/foleas)
+[![instagram](https://img.shields.io/badge/-instagram-0e1117?style=for-the-badge&logo=instagram)](https://instagram.com/bukletika)
 
 ### Языки и инструменты:
 
